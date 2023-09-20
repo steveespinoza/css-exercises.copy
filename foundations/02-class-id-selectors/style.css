@@ -1,0 +1,16 @@
+.impares,.tres{
+    background-color: rgb(253, 32, 117);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+#dos{
+    color: #006eff;
+    font-size: 36px;
+}
+
+.tres,.cuatro{
+    font-size: 24px;
+}
+.cuatro{
+    background-color: rgb(2, 241, 94);
+    font-weight: bold;
+}

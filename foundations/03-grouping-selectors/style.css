@@ -1,0 +1,11 @@
+#uno{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+#dos{
+    background-color: yellow;
+}
+.ambos{
+    font-size: 50px;
+    font-family: Helvetica,'Times New Roman',sans-serif;
+}
